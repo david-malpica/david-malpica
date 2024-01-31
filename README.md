@@ -16,6 +16,7 @@ Hey!, I'm mechatronics engineer at <a href="https://utvt.edomex.gob.mx/">Technol
 ### I´m currently learn... <img src="https://media.giphy.com/media/3oKIPeQ5Uz4gU6ID5K/giphy.gif" width="80" height="50">
 <img src="https://img.shields.io/badge/-TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/-PENPOT-323330?style=for-the-badge&logo=penpot&logoColor=white">
 <img src="https://img.shields.io/badge/-ASTRO-BC52EE?style=for-the-badge&logo=astro&logoColor=black">
+<img src="https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=black">
 
 ### Want to learn...
 <img src="https://img.shields.io/badge/-TAURI-24C8D8?style=for-the-badge&logo=tauri&logoColor=white"> <img src="https://img.shields.io/badge/-THREE.JS-323330?style=for-the-badge&logo=three.js&logoColor=white">
@@ -24,14 +25,14 @@ Hey!, I'm mechatronics engineer at <a href="https://utvt.edomex.gob.mx/">Technol
 <img src="https://img.shields.io/badge/-JWT-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
 
 -----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=david-malpica&show_icons=true&hide_border=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=david-malpica&show_icons=true&hide_border=true) -->
 
 ## Contact 📓
 [![X: davidmalpica](https://img.shields.io/twitter/follow/david_malpi?style=social)](https://twitter.com/david_malpi)
 [![Linkedin: davidmalpica](https://img.shields.io/badge/-davidmalpica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-malpica/)](https://www.linkedin.com/in/david-malpica/)
 
 
-## A little more about personal stuff... <img src="https://media.giphy.com/media/plRmKXo3k98ZyYllw4/giphy.gif" width="50">
+<!-- ## A little more about personal stuff... <img src="https://media.giphy.com/media/plRmKXo3k98ZyYllw4/giphy.gif" width="50">
 ```javascript
  const david = {
   music: [Rock, Classic, Metal],
@@ -39,4 +40,4 @@ Hey!, I'm mechatronics engineer at <a href="https://utvt.edomex.gob.mx/">Technol
   learn: [Watercolor],
   phrase: "Never give up", Sergio 'Checo' Perez
  }
-```
+``` -->
